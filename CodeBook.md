@@ -1,7 +1,7 @@
 Data Set Code Book: **the_tidy_data_set.txt**
 
 ***
-The data set 14220 observations for 4 variables.
+The data set has 14220 observations for 4 variables.
 
 ***
 **Variable**: activity
